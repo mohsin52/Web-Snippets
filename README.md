@@ -8,8 +8,8 @@ I made these snippets using [Bootstrap](https://getbootstrap.com/)  and HTML to 
 and little bit of
 [PHP](https://www.w3schools.com/php/default.asp)
 
-##Author
+Author
 Mohasin Ahamed Chinnapattan
 Github [Link](https://github.com/mohsin52/)
 
-##Thank You
+Thank You
