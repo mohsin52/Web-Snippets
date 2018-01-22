@@ -1,0 +1,13 @@
+#Turn Rewrite Engine On
+RewriteEngine On
+
+#Rewrite for xyz.php
+RewriteRule ^folder xyz.php [NC,L]
+#NC makes the rule non case sensitive
+#L makes the rule last rule that should match
+
+#Rewrite for xyz.php?p=xxxx
+RewriteRule ^folder/([0-9a-zA-Z]+) xyz.php?p=$1 [NC,L]
+
+#Rewrite for xyz.php?p=xxxx&q=xxxxx
+RewriteRule ^folder/([0-9a-zA-Z]+)/([0-9a-zA-Z]+) xyz.php?p=$1&q=$2 [NC,L]
