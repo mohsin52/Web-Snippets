@@ -1,5 +1,7 @@
 # Web-Snippets
-##Introduction
+
+
+Introduction
 I made these snippets using [Bootstrap](https://getbootstrap.com/)  and HTML to be used for making a static website mostly for commercial purpose.
 ## Technology used
 [Bootstrap](https://getbootstrap.com/)
@@ -9,7 +11,7 @@ and little bit of
 [PHP](https://www.w3schools.com/php/default.asp)
 
 Author
-Mohasin Ahamed Chinnapattan
+Mohasin Ahamed Chinnapattan,
 Github [Link](https://github.com/mohsin52/)
 
 Thank You
